@@ -27,7 +27,7 @@ Desenvolvimento de agentes conversacionais integrados à API da OpenAI para aten
 
 ---
 
-### 📬 Conecte-se comigo
+### 🔗 Conecte-se comigo
 *   **Instagram:** [instagram.com/oedugabriel](https://www.instagram.com/oedugabriel)
 *   **LinkedIn:** [linkedin.com/in/oedugabriel](https://www.linkedin.com/in/oedugabriel)
 *   **E-mail:** eduardopereiragabriel@hotmail.com
