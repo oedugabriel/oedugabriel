@@ -2,7 +2,7 @@
 
 ---
 
-* Mantenha-se em Or/ação
+* Mantenha-se em Or/Ação
 * Mantenha-se Focado
 * Mantenha-se Forte
 
