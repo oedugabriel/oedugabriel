@@ -1,4 +1,4 @@
-# ⚡ Eduardo Gabriel | Fundador da OMNIATTA
+# ⚡ Eduardo Gabriel | Fundador da OMNIATTA ⚡
 
 ---
 
