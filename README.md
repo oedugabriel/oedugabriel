@@ -17,10 +17,12 @@ Acredito que bom código é aquele que é legível, eficiente e resolve problema
 **🏢 OMNIHUB | Plataforma de Gestão Condominial**
 SaaS desenvolvido para modernizar a comunicação e processos de condomínios.
 *Tecnologias:* Lovable, Supabase, APIs e Automações (n8n).
+[omnihub.world](https://www.omnihub.world)
 
 **⚙️ GARAGEOMNI | Gestão para Oficinas Mecânicas**
 Aplicação web para organização de clientes, histórico de veículos e controlo de serviços para pequenas e médias oficinas.
 *Tecnologias:* JavaScript, Supabase, Lovable.
+[garageomni.com.br](https://www.garageomni.com.br)
 
 **🤖 Agentes de IA & Automação**
 Desenvolvimento de agentes conversacionais integrados à API da OpenAI para atendimento (ex: Caravana do Paulinho) e criação de fluxos automatizados de faturação e envio de documentos via WhatsApp.
