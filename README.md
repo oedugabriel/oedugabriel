@@ -52,4 +52,4 @@ Qualidade exige dedicação, e é exatamente isso que você encontrará no meu t
 
 ---
 
-⭐ Se gostou, deixe uma estrela nos meus repositórios! Isso me motiva a criar ainda mais conteúdo incrível.
+⭐  Se gostou, deixe uma estrela nos meus repositórios! Isso me motiva a criar ainda mais conteúdo incrível.
