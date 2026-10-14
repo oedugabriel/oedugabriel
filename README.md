@@ -1,5 +1,15 @@
 # ⚡ Eduardo Gabriel | Fundador da OMNIATTA
 
+---
+
+* Mantenha-se em Or/ação
+* Mantenha-se Focado
+* Mantenha-se Forte
+
+---
+
+### 🦍 Sobre Mim
+
 Sou um Programador Full Stack apaixonado por criar soluções web robustas e escaláveis. Como fundador e desenvolvedor da **OMNIATTA**, desenvolvo produtos SaaS, Sites, Agentes de IA e Automações, soluções digitais voltadas para problemas reais de negócios, utilizando tecnologias modernas para criar aplicações funcionais e escaláveis.
 
 Acredito que bom código é aquele que é legível, eficiente e resolve problemas reais. Cada linha que escrevo é pensada com propósito.
