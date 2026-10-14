@@ -2,9 +2,9 @@
 
 ---
 
-* Mantenha-se em Or/Ação
-* Mantenha-se Focado
-* Mantenha-se Forte
+** Mantenha-se em Or/Ação - Stay Pray
+** Mantenha-se Focado - Stay Focused
+** Mantenha-se Forte - Stay Strong
 
 ---
 
