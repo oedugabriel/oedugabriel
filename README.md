@@ -37,5 +37,5 @@ Desenvolvimento de agentes conversacionais integrados à API da OpenAI para aten
 ### 💡 Filosofia
 Programação não é apenas escrever código — é resolver problemas, aprender continuamente e criar valor. Cada projeto é uma oportunidade de crescimento.
 
-"Qualidade exige dedicação, e é exatamente isso que você encontrará no meu trabalho.
+Qualidade exige dedicação, e é exatamente isso que você encontrará no meu trabalho.
 
