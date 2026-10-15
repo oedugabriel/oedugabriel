@@ -37,13 +37,17 @@ Desenvolvimento de agentes conversacionais integrados à API da OpenAI para aten
 
 ---
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=oedugabriel&layout=compact&langs_count=7&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=oedugabriel&layout=compact&langs_count=7&theme=dracula)
+
+---
+
 ### 🔗 Conecte-se comigo
 
 <a href="https://www.instagram.com/oedugabriel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram-logo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/oedugabriel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-logo" height="30" width="40" /></a>
 
-*   **E-mail:** eduardopereiragabriel@hotmail.com
-*   **Site:** [omniatta.com](https://www.omniatta.com)
+* :mailbox_with_mail: **E-mail:**  eduardopereiragabriel@hotmail.com
+* :globe_with_meridians: **Site:**  [omniatta.com](https://www.omniatta.com)
 
 ---
 
