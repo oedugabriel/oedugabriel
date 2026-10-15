@@ -36,6 +36,7 @@ Aplicação web para organização de clientes, histórico de veículos e contro
 Desenvolvimento de agentes conversacionais integrados à API da OpenAI para atendimento (ex: Caravana do Paulinho) e criação de fluxos automatizados de faturação e envio de documentos via WhatsApp.
 
 ---
+### :sunglasses: Linguagens mais utilizadas
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=oedugabriel&layout=compact&langs_count=7&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=oedugabriel&layout=compact&langs_count=7&theme=dracula)
 
