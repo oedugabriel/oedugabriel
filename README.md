@@ -38,8 +38,10 @@ Desenvolvimento de agentes conversacionais integrados à API da OpenAI para aten
 ---
 
 ### 🔗 Conecte-se comigo
-*   **Instagram:** [instagram.com/oedugabriel](https://www.instagram.com/oedugabriel)
-*   **LinkedIn:** [linkedin.com/in/oedugabriel](https://www.linkedin.com/in/oedugabriel)
+
+<a href="[instagram.com/oedugabriel](https://www.instagram.com/oedugabriel)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram-logo" height="30" width="40" /></a>
+<a href="[linkedin.com/in/oedugabriel](https://www.linkedin.com/in/oedugabriel)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin-logo" height="30" width="40" /></a>
+
 *   **E-mail:** eduardopereiragabriel@hotmail.com
 *   **Site:** [omniatta.com](https://www.omniatta.com)
 
